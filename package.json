@@ -1,0 +1,55 @@
+{
+  "name": "react-customizable-modal-example",
+  "version": "1.0.0",
+  "description": "Example for react-customizable-modal-example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rico345100/react-customizable-modal-example"
+  },
+  "keywords": [
+    "react",
+    "browserify",
+    "gulp",
+    "modal",
+    "customizable"
+  ],
+  "author": ".modernator",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-plugin-syntax-async-functions": "^6.13.0",
+    "babel-plugin-transform-class-properties": "^6.22.0",
+    "babel-plugin-transform-react-jsx-source": "^6.22.0",
+    "babel-plugin-transform-regenerator": "^6.22.0",
+    "babel-polyfill": "^6.22.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.18.6",
+    "browserify": "^13.3.0",
+    "browserify-css": "^0.10.1",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.8",
+    "merge-stream": "^1.0.1",
+    "persistify": "^1.1.1",
+    "react": "^15.4.2",
+    "react-customizable-modal": "^1.0.0",
+    "react-dom": "^15.4.2",
+    "run-sequence": "^1.2.2",
+    "scssify": "^2.2.1",
+    "vinyl-source-stream": "^1.1.0",
+    "yargs": "^6.6.0"
+  },
+  "dependencies": {
+    "express": "^4.15.0"
+  }
+}
